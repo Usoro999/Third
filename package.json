@@ -17,6 +17,8 @@
     "@wdio/mocha-framework": "^8.20.3",
     "@wdio/spec-reporter": "^8.20.0",
     "appium-xcuitest-driver": "^5.7.0",
+    "eslint": "^8.52.0",
+    "eslint-plugin-wdio": "^8.20.0",
     "ts-node": "^10.9.1"
   },
   "dependencies": {
