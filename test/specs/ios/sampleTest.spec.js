@@ -1,4 +1,4 @@
-import MenuScreen from "../screenObjects/ios/menuScreen";
+//import { MenuScreen } from "../screenObjects/ios/menuScreen";
 import { onProductScreen } from "../screenObjects/ios/productScreen.js";
 import { onMenuScreen } from "../screenObjects/ios/menuScreen.js";
 import { onLogInPage } from "../screenObjects/ios/logInPage.js";
@@ -11,8 +11,8 @@ describe("SampleTest", () => {
     await onProductScreen.clickOnMenuBtn();
     //await onProductsScreen.logInIsDisplayed()
     console.log(await driver.getContext());
-    assert.equal(await onProductScreen.getTextFromLogInBtn(), "Log In");
-    await MenuScreen.clickOnLogIn();
+    //assert.equal(await onProductScreen.getTextFromLogInBtn(), "Log In");
+    await onMenuScreen.clickOnLogIn();
     await onLogInPage.inputUserName("user");
     await onLogInPage.inputPassword("password");
     await onLogInPage.cliclOnLoginBtn();

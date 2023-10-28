@@ -9,5 +9,5 @@
     await this.logIn.click();
   }
 }
-//export const onMenuScreen = new MenuScreen()
+export const onMenuScreen = new MenuScreen()
 export default new MenuScreen()
