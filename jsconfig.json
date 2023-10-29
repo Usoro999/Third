@@ -6,5 +6,9 @@
           "@wdio/mocha-framework"
       ],
       "module": "CommonJS"
-  }
+  },
+  "exclude": [
+    "node-modules"
+  ]
+  
 }

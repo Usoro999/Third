@@ -1,8 +1,4 @@
 
-
-
-
-
 class Productscreen {
   get menuBtn() { return $('~tab bar option menu') }
   get cartBtn() { return $('~tab bar option cart') }
@@ -20,6 +16,7 @@ class Productscreen {
 
   async clickOnMenuBtn() {
     await this.menuBtn.click()
+    
   }
   async clickOnCartBtn() {
     await this.cartBtn.click()
