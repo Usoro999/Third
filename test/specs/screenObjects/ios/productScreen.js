@@ -23,6 +23,7 @@ class Productscreen {
   }
   async clickOnCartBtn() {
     await this.cartBtn.click()
+    
   }
   async clickOnCatalogBtn(){
     await this.catalogBtn.click()
