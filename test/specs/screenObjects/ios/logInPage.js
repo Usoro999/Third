@@ -1,5 +1,4 @@
-import { $ } from '@wdio/globals'
-import { expect } from 'expect-webdriverio'
+
 
 class LogInPage{
   get logInField() {

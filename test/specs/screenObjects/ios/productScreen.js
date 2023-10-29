@@ -1,5 +1,5 @@
 
-import { $ } from '@wdio/globals'
+
 
 
 
@@ -7,7 +7,7 @@ class Productscreen {
   get menuBtn() { return $('~tab bar option menu') }
   get cartBtn() { return $('~tab bar option cart') }
   
-  get catalogBtn() { return $('tab bar option catalog') }
+  get catalogBtn() { return $('~tab bar option catalog') }
   get logIn() { return $('~menu item log in') } 
 
   get sauceLabsOnesie() {return $('//XCUIElementTypeOther[@name="Sauce Labs Onesie"]')}
