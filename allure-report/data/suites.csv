@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Sun Oct 29 18:59:46 EET 2023","Sun Oct 29 18:59:46 EET 2023","0","","SampleTest","","","","Scroll",""
-"failed","Sun Oct 29 18:59:24 EET 2023","Sun Oct 29 18:59:46 EET 2023","22254","","SampleTest","","","","Sapmle test",""
+"passed","Sat Nov 04 22:24:31 EET 2023","Sat Nov 04 22:24:44 EET 2023","12838","","SampleTest","","","","Sapmle test",""
+"skipped","Sat Nov 04 22:24:44 EET 2023","Sat Nov 04 22:24:44 EET 2023","1","","SampleTest","","","","Scroll",""
