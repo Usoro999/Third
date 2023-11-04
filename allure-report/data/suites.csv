@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Nov 04 22:35:26 EET 2023","Sat Nov 04 22:35:39 EET 2023","12866","","SampleTest","","","","Sapmle test",""
-"skipped","Sat Nov 04 22:35:39 EET 2023","Sat Nov 04 22:35:39 EET 2023","0","","SampleTest","","","","Scroll",""

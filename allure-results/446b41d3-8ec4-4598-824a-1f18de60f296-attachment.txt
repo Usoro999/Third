@@ -1,4 +1,0 @@
-{
-  "using": "accessibility id",
-  "value": "Provided credentials do not match any user in this service."
-}
