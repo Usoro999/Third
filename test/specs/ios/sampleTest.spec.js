@@ -1,4 +1,4 @@
-//import MenuScreen from "../screenObjects/ios/menuScreen";
+
 import { onProductScreen } from "../screenObjects/ios/productScreen.js";
 import { onMenuScreen } from "../screenObjects/ios/menuScreen.js";
 import { onLogInPage } from "../screenObjects/ios/logInPage.js";
